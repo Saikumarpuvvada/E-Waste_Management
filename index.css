@@ -141,14 +141,14 @@ footer {
   color: #0b6ed1ef;
 }
 #welcome-text {
-  width: 55%;
+  width: 75%;
   overflow: hidden;
   display: inline-block;
   border-right: 1px solid #000;
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: 4px;
-  animation: typing 4.5s steps(40, end);
+  animation: typing 5s steps(45, end);
 }
 @keyframes typing {
   0% {
